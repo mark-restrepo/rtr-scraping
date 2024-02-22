@@ -5,5 +5,6 @@ A rather messy repo with scripts and utils for another side project I have, whic
 If by some chance you want to try and run this code, try: 
 
 ```commandline
+conda create -n rtr-scraping
 conda install --file requirements.txt
 ```
